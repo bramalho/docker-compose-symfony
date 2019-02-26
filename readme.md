@@ -19,7 +19,7 @@ docker-compose up -d
 **Note:** First time will take a few minutes to download all the containers.
 
 ## Run the application
-The application is listening the por :8888.
+The application is listening the port :8888.
 You can see the application running in **[http://localhost:8888](http://localhost:8888)**
 
 ## Commands
