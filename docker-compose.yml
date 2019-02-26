@@ -17,7 +17,7 @@ services:
     depends_on:
       - php
   mysql:
-    image: mysql:8.0
+    image: mysql:5.6
     environment:
       MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: app
